@@ -4,4 +4,4 @@
 
 ### Professor Gustavo Guanabara
 
-<a href="https://rabeloodev.github.io/Mini-Projeto/Curiosidade%20de%20Tecnologia/index.html">Exercutar Site Curiosidades de Tecnologia</a>
+<a href="https://rabeloodev.github.io/Mini-Projeto/Curiosidade%20de%20Tecnlogia/index.html">Exercutar Site Curiosidades de Tecnologia</a>
