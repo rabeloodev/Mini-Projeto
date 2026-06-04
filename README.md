@@ -2,6 +2,4 @@
 
 ## Curso de HTML5 e CSS3
 
-### Professor Gustavo Guanabara
-
 <a href="https://rabeloodev.github.io/Mini-Projeto/Curiosidade%20de%20Tecnlogia/index.html">Exercutar Site Curiosidades de Tecnologia</a>
