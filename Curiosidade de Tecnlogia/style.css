@@ -37,9 +37,13 @@ body {
 }
 
 .subtitulo {
+    font-size: 1.2em;
+
+    padding-bottom: 10px;
+
+    text-shadow: 2px 4px 3px #24424b;
     text-align: center;
     font: normal 14px ;
-    text-shadow: 2px 1px 4px rgb(19, 18, 18);
 }
 
 .inicio {
@@ -93,10 +97,6 @@ header > .inicio {
     font-size: 40px;
 }
 
-header > .subtitulo {
-    font-size: 1.2em;
-}
-
 nav {
     background-image: var(--cor1);
     padding: 4px;
@@ -107,8 +107,10 @@ nav {
 }
 
 nav > a:hover {
-    background-color: #1C3941;
+    background-color: #1C2C2C;
     color: #99daf3;
+    transition-duration: 0.2s;
+    text-decoration: none;
 }
 
 .link-texto {
